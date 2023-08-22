@@ -1,0 +1,33 @@
+﻿  A subdirectory or file C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\SolarSystem\bin\x64\Debug\Content already exists.
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Fonts\Arial_14_Regular.spritefont
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Models\Sphere.obj.bin
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Shaders\BasicPS.cso
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Shaders\BasicPS.hlsl
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Shaders\BasicVS.cso
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Shaders\BasicVS.hlsl
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Shaders\SkyboxPS.cso
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Shaders\SkyboxPS.hlsl
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Shaders\SkyboxVS.cso
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Shaders\SkyboxVS.hlsl
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Textures\EarthColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Textures\EarthComposite.dds
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Textures\EarthSpecularMap.png
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Textures\JupiterColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Textures\MarsColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Textures\MercuryColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Textures\MoonColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Textures\NeptuneColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Textures\PlutoColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Textures\SaturnColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Textures\SunColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Textures\UranusColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content\Textures\VenusColorMap.jpg
+  23 File(s) copied
+  compilation object save succeeded; see C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\SolarSystem\bin\x64\Debug\Content\Shaders\PlanetPS.cso
+  compilation object save succeeded; see C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\SolarSystem\bin\x64\Debug\Content\Shaders\PlanetVS.cso
+  pch.cpp
+  Program.cpp
+  RenderingGame.cpp
+  AstronomicalObject.cpp
+  Generating Code...
+  SolarSystem.vcxproj -> C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\SolarSystem\bin\x64\Debug\SolarSystem.exe

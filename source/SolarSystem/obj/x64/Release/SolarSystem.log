@@ -1,0 +1,35 @@
+﻿  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Fonts\Arial_14_Regular.spritefont
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Models\Sphere.obj.bin
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Shaders\BasicPS.cso
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Shaders\BasicPS.hlsl
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Shaders\BasicVS.cso
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Shaders\BasicVS.hlsl
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Shaders\SkyboxPS.cso
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Shaders\SkyboxPS.hlsl
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Shaders\SkyboxVS.cso
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Shaders\SkyboxVS.hlsl
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Textures\EarthColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Textures\EarthComposite.dds
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Textures\EarthSpecularMap.png
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Textures\JupiterColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Textures\MarsColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Textures\MercuryColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Textures\MoonColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Textures\NeptuneColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Textures\PlutoColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Textures\SaturnColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Textures\SunColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Textures\UranusColorMap.jpg
+  C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\build\..\content\Textures\VenusColorMap.jpg
+  23 File(s) copied
+  compilation object save succeeded; see C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\source\SolarSystem\bin\x64\Release\Content\Shaders\PlanetPS.cso
+  compilation object save succeeded; see C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\source\SolarSystem\bin\x64\Release\Content\Shaders\PlanetVS.cso
+  pch.cpp
+  Program.cpp
+  RenderingGame.cpp
+  AstronomicalObject.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2156 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SolarSystem.vcxproj -> C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\source\SolarSystem\bin\x64\Release\SolarSystem.exe

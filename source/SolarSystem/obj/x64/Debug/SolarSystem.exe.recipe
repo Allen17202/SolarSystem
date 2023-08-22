@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\SolarSystem\bin\x64\Debug\SolarSystem.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Shaders\BasicPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Shaders\BasicVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Shaders\SkyboxPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Shaders\SkyboxVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\SolarSystem\bin\x64\Debug\Content\Shaders\PlanetPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\SolarSystem\bin\x64\Debug\Content\Shaders\PlanetVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

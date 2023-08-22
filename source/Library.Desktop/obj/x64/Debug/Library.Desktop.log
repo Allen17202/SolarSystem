@@ -1,0 +1,83 @@
+﻿  compilation object save succeeded; see C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Shaders\BasicPS.cso
+  compilation object save succeeded; see C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Shaders\BasicVS.cso
+  compilation object save succeeded; see C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Shaders\SkyboxPS.cso
+  compilation object save succeeded; see C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Shaders\SkyboxVS.cso
+  pch.cpp
+  UtilityWin32.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.32.31326\include\xstring(2603,27): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\UtilityWin32.cpp(92): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\UtilityWin32.cpp(92): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  BlendStates.cpp
+  Camera.cpp
+  ColorHelper.cpp
+  DirectionalLight.cpp
+  DrawableGameComponent.cpp
+  FirstPersonCamera.cpp
+  FpsComponent.cpp
+  Game.cpp
+  GameClock.cpp
+  GameComponent.cpp
+  GameException.cpp
+  GamePadComponent.cpp
+  GameTime.cpp
+  Grid.cpp
+  KeyboardComponent.cpp
+  Light.cpp
+  MatrixHelper.cpp
+  Mesh.cpp
+  Model.cpp
+  Generating Code...
+  Compiling...
+  ModelMaterial.cpp
+  MouseComponent.cpp
+  OrthographicCamera.cpp
+  PerspectiveCamera.cpp
+  PointLight.cpp
+  ProxyModel.cpp
+  RasterizerStates.cpp
+  RenderStateHelper.cpp
+  RenderTarget.cpp
+  SamplerStates.cpp
+  ServiceContainer.cpp
+  Skybox.cpp
+  SpotLight.cpp
+  StreamHelper.cpp
+  Utility.cpp
+  VectorHelper.cpp
+  Generating Code...
+  Library.Desktop.vcxproj -> C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Library.Desktop.lib
+  A subdirectory or file C:\Dev\Students\CH19\Greg.Allen\SolarSystem\build\..\content already exists.
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\Content\Fonts\Arial_14_Regular.spritefont
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\Content\Models\Sphere.obj.bin
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\Content\Shaders\BasicPS.hlsl
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\Content\Shaders\BasicVS.hlsl
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\Content\Shaders\SkyboxPS.hlsl
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\Content\Shaders\SkyboxVS.hlsl
+  6 File(s) copied
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Fonts\Arial_14_Regular.spritefont
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Models\Sphere.obj.bin
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Shaders\BasicPS.cso
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Shaders\BasicPS.hlsl
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Shaders\BasicVS.cso
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Shaders\BasicVS.hlsl
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Shaders\SkyboxPS.cso
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Shaders\SkyboxPS.hlsl
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Shaders\SkyboxVS.cso
+  C:\Dev\Students\CH19\Greg.Allen\SolarSystem\source\Library.Desktop\bin\x64\Debug\Content\Shaders\SkyboxVS.hlsl
+  10 File(s) copied

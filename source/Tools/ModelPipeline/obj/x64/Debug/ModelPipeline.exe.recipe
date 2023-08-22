@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\source\Tools\ModelPipeline\bin\x64\Debug\ModelPipeline.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\source\Library.Desktop\bin\x64\Debug\Content\Shaders\BasicPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\source\Library.Desktop\bin\x64\Debug\Content\Shaders\BasicVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\source\Library.Desktop\bin\x64\Debug\Content\Shaders\SkyboxPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\source\Library.Desktop\bin\x64\Debug\Content\Shaders\SkyboxVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

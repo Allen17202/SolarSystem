@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\source\Library.Desktop\bin\x64\Release\Content\Shaders\BasicPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\source\Library.Desktop\bin\x64\Release\Content\Shaders\BasicVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\source\Library.Desktop\bin\x64\Release\Content\Shaders\SkyboxPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Dev\Students\CH19\Greg.Allen\Solar-System\Assignment2\source\Library.Desktop\bin\x64\Release\Content\Shaders\SkyboxVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
